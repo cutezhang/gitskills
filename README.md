@@ -1,5 +1,4 @@
 # gitskills
 gitskills
 Creating a new branch is quick and simple.
-modified.
-fast-foward.
+merge with fast-forward.
